@@ -6,9 +6,9 @@ Project created by:
 - Elica Sotirova
 
 Technologies:
-C#
-ASP.NET Core MVC
-Ядро на Entity Framework
-ASP.NET Core Identity
-SQL сървър  
+- C#
+- ASP.NET Core MVC
+- Ядро на Entity Framework
+- ASP.NET Core Identity
+- SQL сървър  
 
