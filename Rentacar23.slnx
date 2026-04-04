@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RentACar.Data1/RentACar.Data1.csproj" Id="66940616-69e1-40e6-bd42-9e5afcaa1efe" />
+  <Project Path="RentACar.Services1/RentACar.Services1.csproj" Id="9a72388c-d1b0-4abc-bc58-3f0c9fff6703" />
+  <Project Path="RentACar.Web1/RentACar.Web1.csproj" Id="bf7a98c3-0798-4b31-8dc2-bb0da9b75be3" />
+</Solution>
